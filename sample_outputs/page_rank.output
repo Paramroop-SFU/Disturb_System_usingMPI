@@ -1,0 +1,11 @@
+Using INT
+World size : 4
+Communication strategy : 1
+Iterations : 20
+rank, num_edges, communication_time
+1, 27666080, 1.446942 
+2, 27666100, 1.423108 
+3, 27665980, 1.491967 
+0, 27666120, 1.473152 
+Sum of page rank : 177458844982
+Time taken (in seconds) : 2.339207
